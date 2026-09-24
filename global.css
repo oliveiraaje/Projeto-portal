@@ -22,7 +22,7 @@
 }
 
 body{
-    font: var(--text);
+    font: var(--text-span);
     color: var(--text-color-primary); 
     background-color: var(--bg-color);
 
@@ -53,6 +53,7 @@ img {
 
 main{ 
     margin-top: 40px;
+    gap: 80px;
 }
 
 .content-tag{
